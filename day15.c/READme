@@ -1,0 +1,5 @@
+This c program analyzes the performance of students based on their marks.
+input: the user enters the number of students.
+the program caluclates total marks and average marks.highest and lowest marks among all students.and the grade distribution based on marks.
+the output displays average marks, highest and lowest marks,number of passed and failed students,grade distribution summary.
+this program helps teachers quickly analyze students performance.
