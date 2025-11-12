@@ -1,0 +1,8 @@
+The menu is displayed with fixed items and prices.
+
+The program asks how many customers are ordering.
+
+For each customer, it records the item number and quantity, calculates their total bill, and adds it to the café’s total.
+
+After all customers are served, it shows the day’s total revenue, total items sold, and which items were most and least popular.
+
