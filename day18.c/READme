@@ -1,0 +1,6 @@
+the program stores product details using arrays for id , name ,quantity , and price
+the user enters information for up t 10 products
+a menu allows multiple inventory operations
+it displays all products with their details
+it caluclates total stock value and finds highest/lowest valued products
+it can search and display a product by its id.
