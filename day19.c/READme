@@ -1,0 +1,9 @@
+
+ The program stores attendance and marks of 5 students using 2D arrays.
+
+ It takes input for names, attendance (0/1), and marks (0–100).
+
+ It calculates total attendance, absences, total marks, averages, topper, and lowest performer.
+
+ A menu using loops and switch-case displays reports like attendance, marks, performance, and grades.
+ The program helps beginners understand arrays, loops, and basic data analysis in C.
