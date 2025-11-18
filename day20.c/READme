@@ -1,0 +1,7 @@
+
+
+This C program creates a basic billing system.
+It first takes input for multiple products such as product ID, name, quantity, and price.
+Then it builds a bill by storing all product information in arrays and calculating the total price for each product.
+Finally, it prints a well-formatted bill showing ID, Name, Quantity, Price, Total for each item along with the Grand Total.
+The program uses functions, arrays, loops, and basic arithmetic to organize and display the bill cleanly.
